@@ -7,5 +7,12 @@
 
 import Foundation
 
-print("Hello, World!")
+var a = readLine()
+var b = readline()
+var c = readline()
+
+
+print("First line is \(a!)")
+print("Second line is \(b!)")
+print("Third line is \(c!)")
 
