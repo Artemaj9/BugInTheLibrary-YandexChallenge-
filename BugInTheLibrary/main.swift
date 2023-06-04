@@ -8,8 +8,8 @@
 import Foundation
 
 var a = readLine()
-var b = readline()
-var c = readline()
+var b = readLine()
+var c = readLine()
 
 
 print("First line is \(a!)")
